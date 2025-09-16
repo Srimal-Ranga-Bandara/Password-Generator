@@ -12,6 +12,7 @@ Beginner-friendly Python code using random module
 
 
 💻 Technologies used:
+
 Python 3
 random module
 This project is a great way to practice Python basics such as lists, loops, string concatenation, and randomization.
